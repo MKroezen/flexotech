@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="de">
+    <body>
+      <trans-unit id="home" datatype="html">
+        <source>Home</source>
+        <target>Startseite</target>
+      </trans-unit>
+      <trans-unit id="markets" datatype="html">
+        <source>Markets</source>
+        <target>Märkte</target>
+      </trans-unit>
+      <trans-unit id="about" datatype="html">
+        <source>About</source>
+        <target>Über uns</target>
+      </trans-unit>
+      <trans-unit id="contact" datatype="html">
+        <source>Contact</source>
+        <target>Kontakt</target>
+      </trans-unit>
+      <trans-unit id="welcomeMessage" datatype="html">
+        <source>Welcome to Flexotech</source>
+        <target>Willkommen bei Flexotech</target>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Our strength is the bond</source>
+        <target>Our strength is the bond</target>
+      </trans-unit>
+      <trans-unit id="getStarted" datatype="html">
+        <source>Get Started</source>
+        <target>Loslegen</target>
+      </trans-unit>
+      <trans-unit id="aboutTitle" datatype="html">
+        <source>About Us</source>
+        <target>Das Unternehmen</target>
+      </trans-unit>
+      <trans-unit id="aboutContent" datatype="html">
+        <source>Flexotech, founded in 1994, produces and sells adhesives. We advise companies and
+          offer solutions for many adhesive technology questions and problems. We also have
+          experience with many production facilities where we work with different adhesive
+          processing methods. Markets we serve include: Filters, Textiles, Packaging, Labeling,
+          Wood, and some specialties.</source>
+        <target>Flexotech, gegründet in 1994, produziert und verkauft Klebstoffe. Wir beraten Firmen
+          und bieten Lösungen für viele klebstofftechnische Fragen und Probleme. Märkte, die wir
+          bedienen, sind u.A.: Filter, Textil, Verpackung, Etikettierung, Holz und dann noch einige
+          Spezialitäten.</target>
+      </trans-unit>
+      <trans-unit id="productGroupsTitle" datatype="html">
+        <source>Product Groups</source>
+        <target>Produktgruppen</target>
+      </trans-unit>
+      <trans-unit id="productGroup1" datatype="html">
+        <source>Polyurethane: PU hotmelt, 100% PU, PU dispersions and 2K PU systems.</source>
+        <target>Polyurethan: PU Hotmelt, 100% PU, PU Dispersionen und 2K PU Systeme.</target>
+      </trans-unit>
+      <trans-unit id="productGroup2" datatype="html">
+        <source>EVA's: Hotmelts and dispersions.</source>
+        <target>EVA's: Hotmelts und Dispersionen.</target>
+      </trans-unit>
+      <trans-unit id="productGroup3" datatype="html">
+        <source>Polyolefine: Hotmelts.</source>
+        <target>Polyolefine: Hotmelts.</target>
+      </trans-unit>
+      <trans-unit id="productGroup4" datatype="html">
+        <source>Rubber: Hotmelts.</source>
+        <target>Kautschuk: Hotmelts.</target>
+      </trans-unit>
+      <trans-unit id="productGroup5" datatype="html">
+        <source>Epoxy: 2K systems.</source>
+        <target>Epoxy: 2K Systeme.</target>
+      </trans-unit>
+      <trans-unit id="productGroup6" datatype="html">
+        <source>PvaC: Dispersions 1 and 2K products.</source>
+        <target>PvaC: Dispersionen 1 und 2K Produkte.</target>
+      </trans-unit>
+      <trans-unit id="experienceContent" datatype="html">
+        <source>We have experience with many production facilities where we work with different
+          adhesive processing methods.</source>
+        <target>Wir haben Erfahrungen mit vielen Produktionsanlagen, wobei wir auch mit
+          unterschiedlichen Klebstoffverarbeitungsweisen arbeiten.</target>
+      </trans-unit>
+      <trans-unit id="marketsTitle" datatype="html">
+        <source>Market Segments</source>
+        <target>Marktsegmente</target>
+      </trans-unit>
+      <trans-unit id="market1" datatype="html">
+        <source>Air Filters</source>
+        <target>Luftfilter</target>
+      </trans-unit>
+      <trans-unit id="market2" datatype="html">
+        <source>Fluid Filters</source>
+        <target>Filter für Flüssigkeiten</target>
+      </trans-unit>
+      <trans-unit id="market3" datatype="html">
+        <source>Textiles</source>
+        <target>Textil</target>
+      </trans-unit>
+      <trans-unit id="market4" datatype="html">
+        <source>Packaging</source>
+        <target>Verpackungen</target>
+      </trans-unit>
+      <trans-unit id="market5" datatype="html">
+        <source>Labeling</source>
+        <target>Etikettierung</target>
+      </trans-unit>
+      <trans-unit id="market6" datatype="html">
+        <source>Wood</source>
+        <target>Holz</target>
+      </trans-unit>
+      <trans-unit id="filterTitle" datatype="html">
+        <source>Filter Manufacturing</source>
+        <target>Filterherstellung</target>
+      </trans-unit>
+      <trans-unit id="filterContent" datatype="html">
+        <source>Our products are used for the production of air filters for e.g. cleanrooms,
+          aircraft, automotive and, among others, in protective masks. Filters for liquids: water,
+          beverages, pharmaceuticals, and medical research.</source>
+        <target>Unsere Produkte werden angewandt für die Herstellung von Luftfiltern für z.B.
+          Reinräume, Flugzeuge, Automotive und u.a. in Schutzmasken. Filter für Flüssigkeiten:
+          Wasser, Getränke, Pharma und medizinische Forschung.</target>
+      </trans-unit>
+      <trans-unit id="textileTitle" datatype="html">
+        <source>Textile</source>
+        <target>Textil</target>
+      </trans-unit>
+      <trans-unit id="textileContent" datatype="html">
+        <source>We supply textile manufacturers who use our products for laminations of many types
+          of textiles combined with breathable membranes that find their application in sports and
+          leisure clothing, shoes, furniture, and underwear.</source>
+        <target>Wir beliefern Textilhersteller, die unsere Produkte nutzen für Laminierungen von
+          vielen Arten von Textilien kombiniert mit atmungsaktiven Membranen, die ihre Anwendung
+          finden in Sport- und Freizeitbekleidung, Schuhe, Möbel und Unterwäsche.</target>
+      </trans-unit>
+      <trans-unit id="packagingTitle" datatype="html">
+        <source>Packaging</source>
+        <target>Verpackungen</target>
+      </trans-unit>
+      <trans-unit id="packagingContent" datatype="html">
+        <source>Labeling, film/lamination, beverage and liquid packaging: paper and cardboard
+          bonding.</source>
+        <target>Etikettierungen, Folien/Verleimung, Getränke- und Flüssigkeitenverpackungen: Papier-
+          und Pappeverklebungen.</target>
+      </trans-unit>
+      <trans-unit id="labelingTitle" datatype="html">
+        <source>Labeling</source>
+        <target>Etikettierung</target>
+      </trans-unit>
+      <trans-unit id="labelingContent" datatype="html">
+        <source>For various films, adhesive tapes, and labels, we carry a wide range of
+          self-adhesive adhesives.</source>
+        <target>Für verschiedene Folien, Klebstoffbänder und Etiketten führen wir eine breite
+          Palette von selbstklebenden Klebstoffen.</target>
+      </trans-unit>
+      <trans-unit id="woodTitle" datatype="html">
+        <source>Wood</source>
+        <target>Holz</target>
+      </trans-unit>
+      <trans-unit id="woodContent" datatype="html">
+        <source>Profile wrapping, edge bonding, wood on wood, parquet, and furniture. We have or
+          develop adhesives for special applications for you.</source>
+        <target>Profilummantelung, Kantenverleimungen, Holz auf Holz, Parkett und Möbel. Wir haben
+          oder entwickeln für Sie Klebstoffe für Spezialanwendungen.</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsTitle" datatype="html">
+        <source>Our Market Segments</source>
+        <target>Marktsegmente</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsIntro" datatype="html">
+        <source>We serve a variety of markets, including filters, textiles, packaging, labeling,
+          wood, and other specialty segments.</source>
+        <target>Märkte die wir bedienen sind u.A. : Filter, Textil , Verpackung, Etikettierung ,
+          Holz und dann noch einige Spezialitäten.</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsIntro2" datatype="html">
+        <source>Our Marketsegments are divided in: </source>
+        <target>Die Marktsegmente verteilen wir in:</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturing" datatype="html">
+        <source>Filter Manufacturing</source>
+        <target>Filterherstellung</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturingDesc" datatype="html">
+        <source>Our products are used in the production of:</source>
+        <target>Unsere Produkte werden angewandt für die Herstellung von:</target>
+      </trans-unit>
+      <trans-unit id="airFilters" datatype="html">
+        <source>Air filters (e.g., cleanrooms, aerospace, automotive, gas protection filters)</source>
+        <target>Luftfilter für z.B. Cleanrooms, Flugzeuge, Automotive und u.a. in Schutzmasken.</target>
+      </trans-unit>
+      <trans-unit id="fluidFilters" datatype="html">
+        <source>Fluid filters (water, beverages, pharma, and medical research)</source>
+        <target>Filter für Flüssigkeiten: Wasser, Getränke, Pharma und medizinische Forschung.</target>
+      </trans-unit>
+      <trans-unit id="textiles" datatype="html">
+        <source>Textiles</source>
+        <target>Textil</target>
+      </trans-unit>
+      <trans-unit id="textilesDesc" datatype="html">
+        <source>We supply adhesives to textile producers for laminations of different kinds of
+          textiles, often in combination with breathing membranes, for applications in:</source>
+        <target>Wir beliefern Textilhersteller, die unsere Produkte für Laminierungen von vielen
+          Arten von Textilien nutzen, kombiniert mit atmungsaktiven Membranen, die ihre Anwendung
+          finden in Sport- und Freizeitbekleidung, Schuhen, Möbeln und Unterwäsche.</target>
+      </trans-unit>
+      <trans-unit id="packaging" datatype="html">
+        <source>Packaging</source>
+        <target>Verpackungen</target>
+      </trans-unit>
+      <trans-unit id="packagingDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>Etikettierungen, Folienverleimung, Getränke- und Flüssigkeitenverpackungen, Papier-
+          und Pappeverklebungen.</target>
+      </trans-unit>
+      <trans-unit id="labelling" datatype="html">
+        <source>Labelling</source>
+        <target>Labelling</target>
+      </trans-unit>
+      <trans-unit id="labellingDesc" datatype="html">
+        <source>We offer an extensive range of PSA systems for various foils, labels, and tapes.</source>
+        <target>Für verschiedene Folien, Klebstoffbänder und Etiketten führen wir eine breite
+          Palette von selbstklebenden Klebstoffen.</target>
+      </trans-unit>
+      <trans-unit id="wood" datatype="html">
+        <source>Wood</source>
+        <target>Holz</target>
+      </trans-unit>
+      <trans-unit id="woodDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>Profilummantelung, Kantenverleimungen, Holz auf Holz, Parkett und Möbel.</target>
+      </trans-unit>
+      <trans-unit id="specialApplications" datatype="html">
+        <source>Special Applications</source>
+        <target>Spezialanwendungen</target>
+      </trans-unit>
+      <trans-unit id="specialApplicationsDesc" datatype="html">
+        <source>We’re always ready to partner with you to find or develop specialized adhesive
+          solutions for your unique applications.</source>
+        <target>Wir haben oder entwickeln für Sie Klebstoffe für Spezialanwendungen.</target>
+      </trans-unit>
+      <trans-unit id="contactTitle" datatype="html">
+        <source>Contact Us</source>
+        <target>Kontaktinformationen</target>
+      </trans-unit>
+      <trans-unit id="addressTitle" datatype="html">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="phoneLabel" datatype="html">
+        <source>Phone:</source>
+        <target>Telefon:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="home" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="markets" datatype="html">
+        <source>Markets</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about" datatype="html">
+        <source>About</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="welcomeMessage" datatype="html">
+        <source>Welcome to Our Flashy Website</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Discover amazing features and services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="getStarted" datatype="html">
+        <source>Get Started</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">5,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="marketSegmentsTitle" datatype="html">
+        <source>Market Segments</source>
+      </trans-unit>
+      <trans-unit id="marketSegmentsIntro" datatype="html">
+        <source>Markets we serve are a.o.: Filters, Textiles, Packaging, labelling, wood and several
+          special markets.</source>
+      </trans-unit>
+      <trans-unit id="filterManufacturing" datatype="html">
+        <source>Filter Manufacturing</source>
+      </trans-unit>
+      <trans-unit id="filterManufacturingDesc" datatype="html">
+        <source>Our products are being used for production of:</source>
+      </trans-unit>
+      <trans-unit id="airFilters" datatype="html">
+        <source>Air filters (e.g., in cleanrooms, Aerospace, automotive and in gas protection
+          filters)</source>
+      </trans-unit>
+      <trans-unit id="fluidFilters" datatype="html">
+        <source>Filters for fluids: water, beverages, pharma and medical research</source>
+      </trans-unit>
+      <trans-unit id="textiles" datatype="html">
+        <source>Textiles</source>
+      </trans-unit>
+      <trans-unit id="textilesDesc" datatype="html">
+        <source>We supply our adhesives to textile producers for laminations of different kinds of
+          textiles, whether or not in combination with breathing membranes, for application in
+          sports and utility wear, lingerie, shoes, furniture, etc.</source>
+      </trans-unit>
+      <trans-unit id="packaging" datatype="html">
+        <source>Packaging</source>
+      </trans-unit>
+      <trans-unit id="packagingDesc" datatype="html">
+        <source>Labelling, film/foil lamination, beverage and fluid packaging, paper and cardboard
+          boxes, etc.</source>
+      </trans-unit>
+      <trans-unit id="labelling" datatype="html">
+        <source>Labelling</source>
+      </trans-unit>
+      <trans-unit id="labellingDesc" datatype="html">
+        <source>For several foils, labels, and tapes we have an extensive range of PSA systems.</source>
+      </trans-unit>
+      <trans-unit id="wood" datatype="html">
+        <source>Wood</source>
+      </trans-unit>
+      <trans-unit id="woodDesc" datatype="html">
+        <source>Profile wrapping, edge banding, wood on wood, parquet and furniture.</source>
+      </trans-unit>
+      <trans-unit id="specialApplications" datatype="html">
+        <source>Special Applications</source>
+      </trans-unit>
+      <trans-unit id="specialApplicationsDesc" datatype="html">
+        <source>Furthermore, we have or develop special adhesives for different applications.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

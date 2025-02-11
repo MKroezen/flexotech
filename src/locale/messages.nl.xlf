@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="nl">
+    <body>
+      <trans-unit id="home" datatype="html">
+        <source>Home</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="markets" datatype="html">
+        <source>Markets</source>
+        <target>Markten</target>
+      </trans-unit>
+      <trans-unit id="about" datatype="html">
+        <source>About</source>
+        <target>Over ons</target>
+      </trans-unit>
+      <trans-unit id="contact" datatype="html">
+        <source>Contact</source>
+        <target>Contact</target>
+      </trans-unit>
+      <trans-unit id="welcomeMessage" datatype="html">
+        <source>Welcome to Flexotech</source>
+        <target>Welkom bij Flexotech</target>
+      </trans-unit>
+      <trans-unit id="heroSubtitle" datatype="html">
+        <source>Our strength is the bond</source>
+        <target>Our strength is the bond</target>
+      </trans-unit>
+      <trans-unit id="getStarted" datatype="html">
+        <source>Get Started</source>
+        <target>Aan de slag</target>
+      </trans-unit>
+      <trans-unit id="aboutTitle" datatype="html">
+        <source>About Us</source>
+        <target>Over ons</target>
+      </trans-unit>
+      <trans-unit id="aboutContent" datatype="html">
+        <source>Flexotech, founded in 1994, produces and sells adhesives. We advise companies and
+          offer solutions for many adhesive technology questions and problems. We also have
+          experience with many production facilities where we work with different adhesive
+          processing methods. Markets we serve include: Filters, Textiles, Packaging, Labeling,
+          Wood, and some specialties.</source>
+        <target>Flexotech, opgericht in 1994, produceert en vermarkt Lijmen. Daarnaast adviseren we
+          en bieden we totaaloplossingen voor vele uiteenlopende verbindingsproblemen. Markten die
+          we bedienen zijn o.a.: Filters, Textiel, Verpakking, labelling, hout en daarnaast nog een
+          aantal specialiteiten.</target>
+      </trans-unit>
+      <trans-unit id="productGroupsTitle" datatype="html">
+        <source>Product Groups</source>
+        <target>Productgroepen</target>
+      </trans-unit>
+      <trans-unit id="productGroup1" datatype="html">
+        <source>Polyurethane: PU hotmelt, 100% PU, PU dispersions and 2K PU systems.</source>
+        <target>Polyurethaan: PU hotmelt, 100% PU, watergedragen PU dispersies en 2K PU systemen.</target>
+      </trans-unit>
+      <trans-unit id="productGroup2" datatype="html">
+        <source>EVA's: Hotmelts and dispersions.</source>
+        <target>EVA's: Voornamelijk hotmelts.</target>
+      </trans-unit>
+      <trans-unit id="productGroup3" datatype="html">
+        <source>Polyolefine: Hotmelts.</source>
+        <target>Polyolefine: Hotmelts.</target>
+      </trans-unit>
+      <trans-unit id="productGroup4" datatype="html">
+        <source>Rubber: Hotmelts.</source>
+        <target>Rubber: Hotmelts.</target>
+      </trans-unit>
+      <trans-unit id="productGroup5" datatype="html">
+        <source>Epoxy: 2K systems.</source>
+        <target>Epoxy: 2K systemen.</target>
+      </trans-unit>
+      <trans-unit id="productGroup6" datatype="html">
+        <source>PvaC: Dispersions 1 and 2K products.</source>
+        <target>PvaC: Watergedragen 1 en 2K produkten.</target>
+      </trans-unit>
+      <trans-unit id="experienceContent" datatype="html">
+        <source>We have experience with many production facilities where we work with different
+          adhesive processing methods.</source>
+        <target>Daarnaast hebben we uitgebreide kennis in huis op het gebied van produktiemethodes
+          en verwerkingsapparatuur.</target>
+      </trans-unit>
+      <trans-unit id="marketsTitle" datatype="html">
+        <source>Market Segments</source>
+        <target>Marktsegmenten</target>
+      </trans-unit>
+      <trans-unit id="market1" datatype="html">
+        <source>Air Filters</source>
+        <target>Luchtfilters</target>
+      </trans-unit>
+      <trans-unit id="market2" datatype="html">
+        <source>Fluid Filters</source>
+        <target>Vloeistoffilters</target>
+      </trans-unit>
+      <trans-unit id="market3" datatype="html">
+        <source>Textiles</source>
+        <target>Textiel</target>
+      </trans-unit>
+      <trans-unit id="market4" datatype="html">
+        <source>Packaging</source>
+        <target>Verpakkingen</target>
+      </trans-unit>
+      <trans-unit id="market5" datatype="html">
+        <source>Labeling</source>
+        <target>Labeling</target>
+      </trans-unit>
+      <trans-unit id="market6" datatype="html">
+        <source>Wood</source>
+        <target>Hout</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsTitle" datatype="html">
+        <source>Our Market Segments</source>
+        <target>Marktsegmenten</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsIntro" datatype="html">
+        <source>Markets we serve include: Filters, Textiles, Packaging, Labelling, Wood, and several
+          special markets.</source>
+        <target>Markten die we bedienen zijn o.a.: Filters, Textiel, Verpakking, labelling, hout en
+          daarnaast nog een aantal specialiteiten.</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturing" datatype="html">
+        <source>Filter Manufacturing</source>
+        <target>Filterproductie</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturingDesc" datatype="html">
+        <source>Our products are used in the production of:</source>
+        <target>Onze producten worden ingezet voor de productie van:</target>
+      </trans-unit>
+      <trans-unit id="airFilters" datatype="html">
+        <source>Air filters (e.g., cleanrooms, aerospace, automotive, gas protection filters)</source>
+        <target>luchtfilters voor b.v. cleanrooms, vliegtuigen, automotive en o.a. in gasmaskers.</target>
+      </trans-unit>
+      <trans-unit id="fluidFilters" datatype="html">
+        <source>Fluid filters (water, beverages, pharma, and medical research)</source>
+        <target>Filters voor vloeistoffen : water , dranken, pharma en medisch onderzoek.</target>
+      </trans-unit>
+      <trans-unit id="textiles" datatype="html">
+        <source>Textiles</source>
+        <target>Textiel</target>
+      </trans-unit>
+      <trans-unit id="textilesDesc" datatype="html">
+        <source>We supply adhesives to textile producers for laminations of different kinds of
+          textiles, often in combination with breathing membranes, for applications in:</source>
+        <target>We leveren aan textielproducenten die onze producten inzetten voor lamineringen van
+          vele soorten textiel al of niet in combinatie met ademende membranen voor toepassing in
+          o.a. sport en vrietijdskleding en schoenen, meubelstoffen en lingerie.</target>
+      </trans-unit>
+      <trans-unit id="packaging" datatype="html">
+        <source>Packaging</source>
+        <target>Verpakkingen</target>
+      </trans-unit>
+      <trans-unit id="packagingDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>etiketteringen, folieverlijming , drank en vloeistofverpakkingen , dozensluiten etc.</target>
+      </trans-unit>
+      <trans-unit id="labelling" datatype="html">
+        <source>Labelling</source>
+        <target>Labelling</target>
+      </trans-unit>
+      <trans-unit id="labellingDesc" datatype="html">
+        <source>We offer an extensive range of PSA systems for various foils, labels, and tapes.</source>
+        <target>Voor verschillende soorten folien, tapes en labels voeren we een uitgebreide reeks
+          van PSA systemen.</target>
+      </trans-unit>
+      <trans-unit id="wood" datatype="html">
+        <source>Wood</source>
+        <target>Hout</target>
+      </trans-unit>
+      <trans-unit id="woodDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>Profielommanteling, kantverlijmingen, hout op hout, parket en meubels.</target>
+      </trans-unit>
+      <trans-unit id="contactTitle" datatype="html">
+        <source>Contact Us</source>
+        <target>Contactgegevens</target>
+      </trans-unit>
+      <trans-unit id="addressTitle" datatype="html">
+        <source>Address</source>
+        <target>Adres</target>
+      </trans-unit>
+      <trans-unit id="phoneLabel" datatype="html">
+        <source>Phone:</source>
+        <target>Telefoon:</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsTitle" datatype="html">
+        <source>Our Market Segments</source>
+        <target>Onze Marktsegmenten</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsIntro" datatype="html">
+        <source>We serve a variety of markets, including filters, textiles, packaging, labeling,
+          wood, and other specialty segments.</source>
+        <target>Markten die we bedienen zijn o.a.: Filters, Textiel, Verpakking, labelling, hout en
+          daarnaast nog een aantal specialiteiten.</target>
+      </trans-unit>
+      <trans-unit id="marketSegmentsSubIntro" datatype="html">
+        <source>Our market segments are divided into:</source>
+        <target>Onze marktsegmenten verdelen we onder in:</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturing" datatype="html">
+        <source>Filter Manufacturing</source>
+        <target>Filterproductie</target>
+      </trans-unit>
+      <trans-unit id="filterManufacturingDesc" datatype="html">
+        <source>Our products are used in the production of:</source>
+        <target>Onze producten worden ingezet voor de productie van:</target>
+      </trans-unit>
+      <trans-unit id="airFilters" datatype="html">
+        <source>Air filters (e.g., cleanrooms, aerospace, automotive, gas protection filters)</source>
+        <target>Luchtfilters voor b.v. cleanrooms, vliegtuigen, automotive en o.a. in gasmaskers.</target>
+      </trans-unit>
+      <trans-unit id="fluidFilters" datatype="html">
+        <source>Fluid filters (water, beverages, pharma, and medical research)</source>
+        <target>Filters voor vloeistoffen: water, dranken, pharma en medisch onderzoek.</target>
+      </trans-unit>
+      <trans-unit id="textiles" datatype="html">
+        <source>Textiles</source>
+        <target>Textiel</target>
+      </trans-unit>
+      <trans-unit id="textilesDesc" datatype="html">
+        <source>We supply adhesives to textile producers for laminations of different kinds of
+          textiles, often in combination with breathing membranes, for applications in:</source>
+        <target>We leveren aan textielproducenten die onze producten inzetten voor lamineringen van
+          vele soorten textiel al of niet in combinatie met ademende membranen voor toepassing in
+          o.a. sport en vrietijdskleding en schoenen, meubelstoffen en lingerie.</target>
+      </trans-unit>
+      <trans-unit id="packaging" datatype="html">
+        <source>Packaging</source>
+        <target>Verpakkingen</target>
+      </trans-unit>
+      <trans-unit id="packagingDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>Etiketteringen, folieverlijming, drank en vloeistofverpakkingen, dozensluiten etc.</target>
+      </trans-unit>
+      <trans-unit id="labelling" datatype="html">
+        <source>Labelling</source>
+        <target>Labelling</target>
+      </trans-unit>
+      <trans-unit id="labellingDesc" datatype="html">
+        <source>We offer an extensive range of PSA systems for various foils, labels, and tapes.</source>
+        <target>Voor verschillende soorten folien, tapes en labels voeren we een uitgebreide reeks
+          van PSA systemen.</target>
+      </trans-unit>
+      <trans-unit id="wood" datatype="html">
+        <source>Wood</source>
+        <target>Hout</target>
+      </trans-unit>
+      <trans-unit id="woodDesc" datatype="html">
+        <source>Our adhesives are used in:</source>
+        <target>Profielommanteling, kantverlijmingen, hout op hout, parket en meubels.</target>
+      </trans-unit>
+      <trans-unit id="specialApplications" datatype="html">
+        <source>Special Applications</source>
+        <target>Speciale Toepassingen</target>
+      </trans-unit>
+      <trans-unit id="specialApplicationsDesc" datatype="html">
+        <source>We have or develop adhesives for special applications for you.</source>
+        <target>Verder hebben we of ontwikkelen we voor u, lijmen voor speciale toepassingen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
